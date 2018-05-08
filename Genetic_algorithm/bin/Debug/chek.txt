@@ -1,0 +1,25 @@
+        public bool Revolution(ref Generation g)
+        {
+            int[] someArr = new int[g.quantityTasks];
+            int some = 0;
+            int min = g.ArrayVitality.Min();
+            int minIndex = Array.IndexOf(g.ArrayVitality, g.ArrayVitality.Min());
+            if (g.ArrayVitality[0] > min)
+            {
+                using (StreamWriter sw = File.AppendText(path))
+                {
+                    sw.WriteLine("Произошла революция! Особь: " + minIndex + " c " + min + " свергает 0 c" + g.ArrayVitality[0]);
+                }
+                for (int i = 0; i < g.quantityTasks; i++)
+                {
+                    someArr[i] = g.ArrayOfPopulation[0][i];
+                    g.ArrayOfPopulation[0][i] = g.ArrayOfPopulation[minIndex][i];
+                    g.ArrayOfPopulation[minIndex][i] = someArr[i];
+                }
+                some = g.ArrayVitality[0];
+                g.ArrayVitality[0] = min;
+                g.ArrayVitality[minIndex] = some;
+                return true;
+            }
+            return ;
+        }

@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Genetic_algorithm\Genetic_algorithmTests\bin\Debug\Genetic_algorithmTests.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Genetic_algorithm\Genetic_algorithmTests\bin\Debug\Genetic_algorithmTests.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Genetic_algorithm\Genetic_algorithmTests\bin\Debug\Genetic_algorithm.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Genetic_algorithm\Genetic_algorithmTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Genetic_algorithm\Genetic_algorithmTests\bin\Debug\Genetic_algorithm.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Genetic_algorithm\Genetic_algorithmTests\obj\Debug\Genetic_algorithmTests.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Genetic_algorithm\Genetic_algorithmTests\obj\Debug\Genetic_algorithmTests.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Genetic_algorithm\Genetic_algorithmTests\obj\Debug\Genetic_algorithmTests.pdb

@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\bin\Debug\Genetic_algorithm.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\bin\Debug\Genetic_algorithm.exe
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\bin\Debug\Genetic_algorithm.pdb
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\obj\Debug\Genetic_algorithm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\obj\Debug\Genetic_algorithm.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\obj\Debug\Genetic_algorithm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\obj\Debug\Genetic_algorithm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\obj\Debug\Genetic_algorithm.exe
+c:\users\user\documents\visual studio 2015\Projects\Genetic_algorithm\Genetic_algorithm\obj\Debug\Genetic_algorithm.pdb
